@@ -1,5 +1,7 @@
 <div align="center">
 
+English / [简体中文](./README_CN.md)
+
 <a href='#企业版'>
   <img src="./docs/images/ent.svg" alt="icon"/>
 </a>
